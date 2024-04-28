@@ -1,0 +1,161 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+}
+
+#header1 {
+  background-color: black;
+  width: 100x;
+  height: 120px;
+  color: white;
+}
+
+#x {
+  height: 110px;
+  width: 140px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#minecraft {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  left: 15%;
+  transform: translateY(-50%);
+}
+
+#github {
+  height: 75px;
+  width: 250px;
+  position: absolute;
+  top: 50%;
+  right: 15%;
+  transform: translateY(-50%);
+}
+
+#frame {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, 30%);
+  height: 500px;
+  width: 300px;
+  overflow: hidden;
+}
+
+#arrow {
+  height: 100px;
+  width: 250px;
+  position: absolute;
+  top: 590%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+#text1 {
+  font-family: 'Comic Neue';
+  font-style: bold;
+  color: white;
+  position: absolute;
+  top: 665%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+#hd1 {
+  color: white;
+  font-family: 'Comic Neue';
+  font-size: 50px;
+  position: absolute;
+  top: 260px;
+  left: 12%;
+}
+
+#hd2 {
+  color: white;
+  font-family: 'Comic Neue';
+  font-size: 30px;
+  position: absolute;
+  top: 340px;
+  left: 12%;
+}
+
+#hd3 {
+  color: white;
+  font-family: 'Comic Neue';
+  font-size: 50px;
+  position: absolute;
+  top: 370px;
+  left: 12%;
+}
+
+#hd4 {
+  color: white;
+  font-family: 'Comic Neue';
+  font-size: 60px;
+  position: absolute;
+  top: 330px;
+  right: 12%;
+}
+
+
+
+#border {
+  position: relative;
+  top: 900px;
+  border: 0;
+  height: 2px;
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0), rgba(215, 215, 215, 0.75), rgba(0, 0, 0, 0));
+  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0), rgba(215, 215, 215, 0.75), rgba(0, 0, 0, 0));
+  background-image: -ms-linear-gradient(left, rgba(0, 0, 0, 0), rgba(215, 215, 215, 0.75), rgba(0, 0, 0, 0));
+  background-image: -o-linear-gradient(left, rgba(0, 0, 0, 0), rgba(215, 215, 215, 0.75), rgba(0, 0, 0, 0));
+  box-shadow: 0px -2px 4px rgba(136, 136, 136, 0.75);
+  }
+
+
+
+#hd5 {
+  color: white;
+  font-family: 'Comic Neue';
+  font-size: 100px;
+  position: absolute;
+  top: 1000px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+#hd6 {
+  color: white;
+  font-family: 'Comic Neue';
+  font-size: 80px;
+  position: absolute;
+  top: 1130px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+#btn {
+  height: 50px;
+  width: 150px;
+  background-color: white;
+  position: absolute;
+  top: 1400px;
+  left: 50%;
+  transform: translate(-50%);
+  background-color: #2f671e;
+  color: white;
+  border-style: none;
+  border: .125rem solid #262423;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#btn:hover {
+  background-color: #245017;
+}
