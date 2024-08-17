@@ -6,8 +6,10 @@ This repository is intended solely for educational purposes to demonstrate the r
 ## Overview
 This project demonstrates a fully functional phishing site designed to replicate the look and feel of a legitimate website. The purpose is to educate individuals about the dangers of phishing, how these attacks are conducted, and how one can protect themselves from such threats.
 
+I'm not providing the code of the backend and **the login page's code is obfuscated** to make sure that no one can change the code of it and misuse it.
+
 ## Features
-- **Realistic Interface:** Mimics the login page of a popular website to demonstrate how phishing attacks work.
+- **Realistic Interface:** Mimics the login page of microsoft to demonstrate how phishing attacks work.
 - **Credential Capture:** Captures and logs credentials entered by unsuspecting users.
 - **Undetectable:** It contains robots.txt which blocks crawlers and the login page's code is obfuscated and debugger pauser runs in loop that makes it undetectable.
 - **Redirection:** It redirects the root URL to https://www.minecraft.net/en-US/ which feels like that it it's the part of the official site
@@ -44,14 +46,14 @@ This phishing site is designed to be used in a controlled environment. It should
 
 ---
 
-## PREVENTION
-There's only a single prevention method and that is to use the 2 factor authentication.
-
----
-
 ## Conclusion
 - Demonstrate how easy it is to fall victim to phishing.
 - Shows how dumb and useless the verified URLs and SSL certificatesa are.
+
+---
+
+## PREVENTION
+There's only a single prevention method and that is to use the 2 factor authentication.
 
 ---
 
