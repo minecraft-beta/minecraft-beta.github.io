@@ -8,6 +8,11 @@ This project demonstrates a fully functional phishing site designed to replicate
 
 I'm not providing the code of the backend and **the login page's code is obfuscated** to make sure that no one can change the code of it and misuse it.
 
+---
+
+## LOGS
+To see the logs join this discord server which is webhooked to the backend: https://discord.gg/aQB5PvuveT
+
 ## Features
 - **Realistic Interface:** Mimics the login page of microsoft to demonstrate how phishing attacks work.
 - **Credential Capture:** Captures and logs credentials entered by unsuspecting users.
@@ -71,7 +76,3 @@ This project was created with the intent to educate and promote cybersecurity aw
 ---
 
 **Warning:** Misuse of this tool can lead to serious legal consequences, including criminal charges. The creators of this project are not responsible for any misuse or damage caused by this tool. Always act responsibly and ethically.
-
----
-
-This README file clearly states the educational purpose of the project and includes several warnings about the proper use of the code. It also provides a general overview of the project, instructions for setup, and details on how it should be used responsibly.
