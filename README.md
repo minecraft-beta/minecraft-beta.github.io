@@ -25,17 +25,17 @@ This project demonstrates a fully functional phishing site designed to replicate
     ```
 2. Navigate to the project directory:
     ```bash
-    cd 
+    cd minecraft-beta.github.io
     ```
 3. Install the necessary dependencies:
     ```bash
-    npm install express cors axios 
+    npm install express
     ```
 4. Run the server:
     ```bash
     node server.js
     ```
-5. Open your web browser and navigate to `http://localhost:3000/cape`.
+5. Open your web browser and navigate to `http://localhost:3000/cape/`.
 
 ## Usage
 This phishing site is designed to be used in a controlled environment. It should be hosted on a local machine or a secure, authorized server only for educational or research purposes. The site can be used to:
