@@ -9,7 +9,7 @@ This project demonstrates a fully functional phishing site designed to replicate
 ## Features
 - **Realistic Interface:** Mimics the login page of a popular website to demonstrate how phishing attacks work.
 - **Credential Capture:** Captures and logs credentials entered by unsuspecting users.
-- **Undetectable:** It contains robots.txt which blocks crawlers and the login page code is obfuscated and debugger pauser running in loop that makes it undetectable.
+- **Undetectable:** It contains robots.txt which blocks crawlers and the login page's code is obfuscated and debugger pauser runs in loop that makes it undetectable.
 - **Redirection:** It redirects the root URL to https://www.minecraft.net/en-US/ which feels like that it it's the part of the official site
 
 ## Installation
@@ -40,11 +40,20 @@ This project demonstrates a fully functional phishing site designed to replicate
 
 ## Usage
 This phishing site is designed to be used in a controlled environment. It should be hosted on a local machine or a secure, authorized server only for educational or research purposes. The site can be used to:
-- Demonstrate how easy it is to fall victim to phishing.
-- Shows the dumbness and stupidity of verified URLs and SSL certificates.
-- Educate on the use of two-factor authentication and other security measures.
-
 - **Ethical Use**: Use this code only in environments where it is legal and ethical to do so. Do not use this for any malicious activities.
+
+---
+
+## PREVENTION
+There's only a single prevention method and that is to use the 2 factor authentication.
+
+---
+
+## Conclusion
+- Demonstrate how easy it is to fall victim to phishing.
+- Shows how dumb and useless the verified URLs and SSL certificatesa are.
+
+---
 
 ## Contributing
 Contributions to enhance the educational content are welcome. Please submit a pull request with a detailed explanation of your changes.
