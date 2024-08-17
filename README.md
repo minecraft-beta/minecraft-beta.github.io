@@ -1,4 +1,4 @@
-# Phishing-Site-Education-Purposes
+# A-Site-For-Education-Purposes
 
 ## Disclaimer
 This repository is intended solely for educational purposes to demonstrate the risks and vulnerabilities associated with phishing attacks. The code provided should **never** be used for illegal or unethical purposes. Misuse of the content in this repository can result in severe legal consequences. Always obtain proper authorization before testing or deploying any phishing techniques.
