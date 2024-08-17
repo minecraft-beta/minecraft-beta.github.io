@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Acknowledgments
-This project was created with the intent to educate and promote cybersecurity awareness. Special thanks to those who contribute to making the internet a safer place.
+This project was created with the intent to educate and promote cybersecurity awareness. Special thanks to me who made this all by myself 💪.
 
 ---
 
