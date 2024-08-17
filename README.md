@@ -10,13 +10,14 @@ This project demonstrates a fully functional phishing site designed to replicate
 - **Realistic Interface:** Mimics the login page of a popular website to demonstrate how phishing attacks work.
 - **Credential Capture:** Captures and logs credentials entered by unsuspecting users.
 - **Undetectable:** It contains robots.txt which blocks crawlers and the login page code is obfuscated and debugger pauser running in loop that makes it undetectable.
+- **Redirection:** It redirects the root URL to https://www.minecraft.net/en-US/ which feels like that it it's the part of the official site
 
 ## Installation
 
 ### Prerequisites
-- Nodejs (For running the server)
+- nodejs (For running the server)
 - npm (To install the necessary modules)
-- Git (To clone the repository)
+- git (To clone the repository)
 
 ### Steps
 1. Clone the repository:
@@ -35,7 +36,7 @@ This project demonstrates a fully functional phishing site designed to replicate
     ```bash
     node server.js
     ```
-5. Open your web browser and navigate to `http://localhost:3000/cape/`.
+5. Open your web browser and navigate to `http://localhost:3000/cape/`. (make sure to mention /cape/)
 
 ## Usage
 This phishing site is designed to be used in a controlled environment. It should be hosted on a local machine or a secure, authorized server only for educational or research purposes. The site can be used to:
@@ -43,8 +44,6 @@ This phishing site is designed to be used in a controlled environment. It should
 - Shows the dumbness and stupidity of verified URLs and SSL certificates.
 - Educate on the use of two-factor authentication and other security measures.
 
-## Important Notes
-- **Authorization**: Always get explicit permission from the owner of the network or system before deploying this phishing site for testing purposes.
 - **Ethical Use**: Use this code only in environments where it is legal and ethical to do so. Do not use this for any malicious activities.
 
 ## Contributing
