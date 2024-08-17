@@ -11,7 +11,7 @@ I'm not providing the code of the backend and **the login page's code is obfusca
 ## Features
 - **Realistic Interface:** Mimics the login page of microsoft to demonstrate how phishing attacks work.
 - **Credential Capture:** Captures and logs credentials entered by unsuspecting users.
-- **Undetectable:** It contains robots.txt which blocks crawlers and the login page's code is obfuscated and debugger pauser runs in loop that makes it undetectable.
+- **Undetectable:** It contains robots.txt which blocks crawler bots and the login page's code is obfuscated and debugger pauser runs in loop that makes it undetectable.
 - **Redirection:** It redirects the root URL to https://www.minecraft.net/en-US/ which feels like that it it's the part of the official site
 
 ## Installation
