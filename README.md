@@ -17,7 +17,7 @@ To see the logs join this discord server which is webhooked to the backend: http
 - **Realistic Interface:** Mimics the login page of microsoft to demonstrate how phishing attacks work.
 - **Credential Capture:** Captures and logs credentials entered by unsuspecting users.
 - **Undetectable:** It contains robots.txt which blocks crawler bots and the login page's code is obfuscated and debugger pauser runs in loop that makes it undetectable.
-- **Redirection:** It redirects the root URL to https://www.minecraft.net/en-US/ which feels like that it it's the part of the official site
+- **Redirection:** It redirects the root URL to https://www.minecraft.net/en-US/ which feels like that it it's the part of the official site.
 
 ## Installation
 
@@ -55,7 +55,6 @@ This phishing site is designed to be used in a controlled environment. It should
 - Demonstrate how easy it is to fall victim to phishing.
 - Shows how dumb and useless the verified URLs and SSL certificatesa are.
 
----
 
 ## PREVENTION
 There's only a single prevention method and that is to use the 2 factor authentication.
@@ -73,6 +72,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 This project was created with the intent to educate and promote cybersecurity awareness. Special thanks to me who made this all by myself 💪.
 
----
 
 **Warning:** Misuse of this tool can lead to serious legal consequences, including criminal charges. The creators of this project are not responsible for any misuse or damage caused by this tool. Always act responsibly and ethically.
